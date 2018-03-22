@@ -1,9 +1,10 @@
 {
-	"name": "cosenary/simple-php-cache",
+	"name": "yalla-ya/simple-php-cache",
 	"type": "library",
+	"version": "1.7",
 	"description": "A light, simple but powerful PHP5 Cache Class which uses the filesystem for caching.",
 	"keywords": ["cache", "simple", "filesystem", "json"],
-	"homepage": "https://github.com/cosenary/Simple-PHP-Cache",
+	"homepage": "https://github.com/yalla-ya/Simple-PHP-Cache",
 	"license": "BSD",
 	"authors": [
 		{
